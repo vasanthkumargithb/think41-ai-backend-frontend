@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock_quantity
+1,Laptop,Electronics,1200.00,50
+2,Mouse,Electronics,25.00,200
+3,Keyboard,Electronics,75.00,150
+4,Monitor,Electronics,300.00,30
+5,T-Shirt,Apparel,20.00,500

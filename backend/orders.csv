@@ -1,0 +1,6 @@
+order_id,product_id,quantity,order_date,customer_id
+101,1,1,2025-07-20,CUST001
+101,2,2,2025-07-20,CUST001
+102,5,3,2025-07-21,CUST002
+103,3,1,2025-07-22,CUST003
+104,1,1,2025-07-23,CUST004
